@@ -31,6 +31,7 @@ ul {
   border: 1px solid #ccc;
   background-color: royalblue;
   border-radius: 10px 10px 0px 0px; 
+  box-shadow: 20px 20px 50px 15px blue; 
 }
 
 /* Style the buttons inside the tab */
@@ -64,6 +65,7 @@ ul {
   border: 3px solid #ccc;
   border-top: none;
   border-radius: 0px 0px 10px 10px; 
+  box-shadow: 20px 20px 50px 15px blue; 
 }
 
 h1 {
@@ -81,7 +83,6 @@ div {
   border-color: lightgrey;
   margin: 10px;
   background-color: #66ccff;
-  box-shadow: 20px 20px 50px 15px blue; 
 }
 
 a {
