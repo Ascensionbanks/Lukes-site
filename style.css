@@ -77,14 +77,6 @@ h1 {
 h2 {
   letter-spacing: 1px;
 }
-
-div {
-  border: 1px solid;
-  border-color: lightgrey;
-  margin: 10px;
-  background-color: #66ccff;
-}
-
 a {
   color: white;
 }
